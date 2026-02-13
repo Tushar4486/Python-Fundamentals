@@ -1,2 +1,9 @@
 # Python-Fundamentals
-A structured collection of Python programs solving problems from basic to advanced level, focused on building strong fundamentals and problem-solving skills.
+
+
+This repository contains a structured collection of Python programs that solve problems 
+from **basic to advanced level**, focusing on building strong programming fundamentals, 
+logical thinking, and problem-solving skills.
+
+The code in this repository has been written with clean syntax, proper comments, 
+and a clear learning progression.
